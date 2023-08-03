@@ -52,6 +52,10 @@ To set up and run the application:
 - Admins can access their dashboard to manage users, books, and transactions.
 - Users can log in and view their profile, borrow books, and check their borrowing history.
 
+## Application Hosting
+
+The application is currently hosted at: https://crudjwd.000webhostapp.com/
+
 ## Note
 
 This project was developed to the best of my abilities. If there are any shortcomings, I apologize for any inconvenience caused.
